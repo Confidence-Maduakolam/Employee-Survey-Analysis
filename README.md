@@ -1,5 +1,12 @@
 # Employee-Survey-Analysis
 
+### Table of Contents
+- [ABOUT PROJECT](#about-project)
+- [DATA CLEANING AND TRANSFORMATION](#data-cleaning-and-transformation)
+- [KEY INSIGHTS](#key-insights)
+- [DATA VISUALISATION AND INSIGHTS](#data=visualisation-and-insghts)
+- [KEY AREAS OF IMPROVEMEN](#key-areas-of-improvement)
+
 ### ABOUT PROJECT
 Employee Survey Responses:
 The Employee Survey Responses are actual responses from an employee engagement survey conducted by Pierce County WA and completed voluntarily by government employees. The dataset is a Single table and contains 14,725 records. The total number of fields is 10. As a Data Analyst, you are called to analyze the dataset and provide answers to the questions listed below:
@@ -12,9 +19,9 @@ Data set link: [Download here](https://docs.google.com/spreadsheets/d/1nbhfp2Mod
 ##### Tool:
 - Power BI.
  
-### DATA EXPLORATION, CLEANING AND TRANSFORMATION:
+### DATA CLEANING AND TRANSFORMATION:
 After Loading and Examining the data structure to understand the columns and types of responses of the data set. I Checked for any missing or inconsistent data that may affect my visuals, I noticed there were some null values with I replaced with 0 then I promoted the data Header by using the first row as headers.
-### Key Insights:
+### KEY INSIGHTS:
 
 1.Response Text
 
@@ -72,7 +79,7 @@ Some departments like the "Planning and public works" and "Sherriff's department
 To get this I choose the matrix visuals which the questions is on row, response text is on columns and value of each response
 The above picture contains the survey questions with the highest counts of negative responses (either "Disagree" or "Strongly Disagree").
 
-### Key Areas for Improvement:
+### KEY AREAS OF IMPROVEMENT:
 
 - Social Connections at Work: The question 6. "I have a best friend at work" has the highest number of negative responses, suggesting a need for initiatives to improve workplace relationships and team bonding.
 
