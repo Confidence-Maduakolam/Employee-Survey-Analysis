@@ -32,9 +32,12 @@ After Loading and Examining the data structure to understand the columns and typ
 ### DATA VISUALISATION AND INSIGHTS
 
 
+![HR Employee Response DashBoard](https://github.com/confilovydovy/Employee-Survey-Analysis/assets/7013375/bf5f7b4a-b996-4235-b034-423cd5383a19)
+
 
 ##### •1. Which survey questions did respondents Agree with or disagree with most?
 
+![HR 2](https://github.com/confilovydovy/Employee-Survey-Analysis/assets/7013375/b2845726-dd0c-4814-b0ea-00e1af44807e)
 
 
 Firstly I used Stacked Bar chart which separated my Agreed and Disagreed Response Text with dark blue and light blue
@@ -51,17 +54,24 @@ Question 2, At work I have the opportunity to do what I do best every day have 6
 
 The above mentioned questions have relative high Agreed Response not below 600 employee response indicating clear communication of job expectations.
 
-•2. Do you see any patterns or trends by department or role?
+##### •2. Do you see any patterns or trends by department or role?
+
+![HR 1](https://github.com/confilovydovy/Employee-Survey-Analysis/assets/7013375/56392547-8e86-431f-b1e9-a529be02c066)
 
 
 This visual is gotten by using bar chart to combine department and Response text to identify patterns in the survey responses which shows planning and public works with the highest Agreed and Strongly agreed response.
 
 Some departments like the "Planning and public works" and "Sherriff's department" have higher proportions of "Agree and Strongly Agree" responses combined, indicating possibly better management, job satisfaction in these areas and are aligned with their organization's goals.
 
+##### - Analysis for most Negative Response
+
+
+![HR 3](https://github.com/confilovydovy/Employee-Survey-Analysis/assets/7013375/b11b6362-6c0f-40ee-9881-19919f5d0e6f)
 
 
 To get this I choose the matrix visuals which the questions is on row, response text is on columns and value of each response
 The above picture contains the survey questions with the highest counts of negative responses (either "Disagree" or "Strongly Disagree").
+
 ### Key Areas for Improvement:
 
 - Social Connections at Work: The question 6. "I have a best friend at work" has the highest number of negative responses, suggesting a need for initiatives to improve workplace relationships and team bonding.
