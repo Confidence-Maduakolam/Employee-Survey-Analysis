@@ -5,7 +5,7 @@
 - [DATA CLEANING AND TRANSFORMATION](#data-cleaning-and-transformation)
 - [KEY INSIGHTS](#key-insights)
 - [DATA VISUALISATION AND INSIGHTS](#data=visualisation-and-insghts)
-- [KEY AREAS OF IMPROVEMEN](#key-areas-of-improvement)
+- [KEY AREAS OF IMPROVEMENT](#key-areas-of-improvement)
 
 ### ABOUT PROJECT
 Employee Survey Responses:
